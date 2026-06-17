@@ -1,0 +1,8 @@
+streamlit
+yfinance
+pandas
+plotly
+ta
+pyrebase4
+sqlalchemy
+lxml
